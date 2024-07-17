@@ -9,7 +9,7 @@
 ### Make sure ports 3000 and 5234 are available
 - start xampp
 - create database named 'outofoffice'
-- insert sql code in database/sqlScript.sql
+- insert sql code from database/sqlScript.sql
 - navigate to webapp folder and type 'npm start'
 - navigate to api/api folder and type 'dotnet run'
 
